@@ -2,7 +2,7 @@
 
 **INTERPRETATION & ANALYSIS**
 
-**Brown to DarkBrown:** These areas are likely indicative of dense vegetation,such as forests or heavily vegetated regions. The variation in shades from brown to dark brown may represent different types of vegetation cover, ranging from shrubs and grasslands to forests with dense canopy cover.
+**Brown to DarkBrown:** These areas are likely indicative of dense vegetation, such as forests or heavily vegetated regions. The variation in shades from brown to dark brown may represent different types of vegetation cover, ranging from shrubs and grasslands to forests with dense canopy cover.
 
 **Peach to Pink:** These colors represent bare soil or sparsely vegetated land. Such areas may include agricultural fields, deserts, or regions that have been cleared of vegetation for development or farming. The lighter shades could indicate recently disturbed or exposed soil, such as in construction zones or fallow fields.
 
